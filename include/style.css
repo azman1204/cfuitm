@@ -1,0 +1,22 @@
+#xwrapper {
+	border: 2px solid green;
+}
+
+#xheader {
+	height: 100px;
+	background-color:#ffffcc;
+}
+
+#xmenu {
+	height: 20px;
+	background-color:#ddd;
+}
+
+#xbody {
+	min-height: 400px;
+} 
+
+#xfooter {
+	height: 20px;
+	background-color:#ddd;
+}
