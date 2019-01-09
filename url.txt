@@ -1,3 +1,3 @@
 https://drive.google.com/open?id=1gbxH4erl3Ro4j3lkceTI0H1tDLV5fs01
 
-file:///E:/mySkills/Solr/books/apache-solr-ref-guide-7.6.pdf
+https://www-eu.apache.org/dist/lucene/solr/ref-guide/apache-solr-ref-guide-7.6.pdf
